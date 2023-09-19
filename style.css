@@ -1,0 +1,64 @@
+
+
+body{
+    background-color: #87bdd8;
+}
+#form{
+    right: 40%;
+   position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    padding-top:  20px ;
+    z-index: 2;
+}
+form input{
+    border-radius: 20px;
+    border: navajowhite;
+   padding: 7px 10px; 
+}
+form input[type=submit]{
+    padding:7px 12px; 
+ }
+
+.container{
+    
+    text-align: center;
+}
+.myPhoto{
+    
+    width: 250px;
+    border-radius: 50px;
+}
+.item1{
+    margin-left: 20px;
+}
+.myDiv{
+    position: relative;
+    background-color: #eca1a6;
+    display: flex;
+    align-items: center;
+    margin:0 auto;
+    width: 800px;
+    height: 600px;
+    border-radius: 10px;
+}
+
+.item2{
+    margin: 20px 50px;
+    overflow:-moz-hidden-unscrollable;
+}
+
+
+
+
+
+
+.myTag{
+    text-decoration: none;
+    padding: 5px;
+}
+
+
+
+
+
